@@ -2,9 +2,8 @@
 - 👀 I’m interested in coading
 - 🌱 I’m currently learning programming language Python
 - 💞️ I’m looking to collaborate on C and C++ projects. 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 you can send me pOOl request if you want to coloborate with me.
+- 😄 
 
 <!---
 IAMMRJATIN/IAMMRJATIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
