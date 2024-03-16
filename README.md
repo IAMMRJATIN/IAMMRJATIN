@@ -2,7 +2,7 @@
 - 👀 I’m interested in coading
 - 🌱 I’m currently learning programming language Python
 - 💞️ I’m looking to collaborate on C and C++ projects. 
-- 📫 you can send me pOOl request if you want to coloborate with me.
+- 📫 you can send me pull request if you want to coloborate with me.
 - 😄 
 
 <!---
